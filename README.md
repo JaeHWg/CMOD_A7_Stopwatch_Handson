@@ -33,7 +33,7 @@ When the 7 segment screen input is 0100, the variable LED[0] will turn from 0 to
 
 ### Video of Stopwatch
 File size too big. Here's the link:- <br>
-https://sutdapac-my.sharepoint.com/:v:/g/personal/jaehann_wong_mymail_sutd_edu_sg/ES3cwlgWOjZDmxuVsOarhEMBJI4esnAGP7QKyb7fGw2bqQ?e=kUY3EN
+https://sutdapac-my.sharepoint.com/:v:/g/personal/jaehann_wong_mymail_sutd_edu_sg/ETCdqkJ9pUhHgFdZfjxuvM8Bo7A5pxgIbA3ToBYBn-WH1g?e=CgLqUq
 
 ### Challenges Faced
 Coding the egg timer proved to be a challenge to our team. Firstly, assigning variables and determining the appropriate array size was difficult, because we wanted to implement various time intervals to accommodate different egg doneness. 
