@@ -5,7 +5,6 @@
 To make a timer for cooking an egg. LEDs and a buzzer are used to provide visual and audio feedback to the user to indicate the different cooked levels of the egg. (hard-boiled, soft-boiled)
  
 ## Features
-<br>
 
 ### Start/Stop Button + Reset Button
 Our first feature would be to add a start/stop button to start and stop the stopwatch. <br>
