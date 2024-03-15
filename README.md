@@ -1,6 +1,12 @@
-# CMOD_A7_Stopwatch_Handson
+# CMOD_A7_Stopwatch_Handson 
+<br>
+
+## Features
+<br>
+
+#### Start/Stop Button
 Our first feature would be to add a start/stop button to start and stop the stopwatch. <br>
-To do this, we used the second button,btn[0], that is prebuilt into the board__
+To do this, we used the second button,btn[0], that is prebuilt into the board 
 We assigned it to a variable pause and added it as an input in clock_tree.v__
 When the button is pressed momentarily, the pause button change from 0 to 1 for a moment, this changes a variable, flag, in clock_tree.v from either 0 to 1 or 1 to 0.__
 The flag will then act as a condition for the clock to stop updating or continue updating.()
