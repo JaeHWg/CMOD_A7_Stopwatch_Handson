@@ -31,6 +31,10 @@ When the 7 segment screen input is 0100, the variable LED[0] will turn from 0 to
 ### Picture of set-up
 ![photo_2024-03-15_16-32-41](https://github.com/JaeHWg/CMOD_A7_Stopwatch_Handson/assets/94187124/e353dfd3-cc47-4420-81fc-ff9a11447488)
 
+### Video of Stopwatch
+File size too big. Here's the link:- <br>
+https://sutdapac-my.sharepoint.com/:v:/g/personal/jaehann_wong_mymail_sutd_edu_sg/ES3cwlgWOjZDmxuVsOarhEMBJI4esnAGP7QKyb7fGw2bqQ?e=kUY3EN
+
 ### Challenges Faced
 Coding the egg timer proved to be a challenge to our team. Firstly, assigning variables and determining the appropriate array size was difficult, because we wanted to implement various time intervals to accommodate different egg doneness. 
 <br>
